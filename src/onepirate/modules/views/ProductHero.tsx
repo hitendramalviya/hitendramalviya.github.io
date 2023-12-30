@@ -73,11 +73,11 @@ export default function ProductHero() {
       >
         Connect with me!
       </Button>
-      <Typography variant="body2" color="inherit" sx={{ mt: 2 }}>
+      {/* <Typography variant="body2" color="inherit" sx={{ mt: 2 }}>
         I'm your ReactRover, exploring front-end realms with curiosity. As a
         JavaScript Jedi, I infuse wisdom into code, seeking elegant solutions
         like an artist with a brush.
-      </Typography>
+      </Typography> */}
     </ProductHeroLayout>
   );
 }
