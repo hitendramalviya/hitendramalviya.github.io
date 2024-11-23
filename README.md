@@ -1,55 +1,36 @@
-### **Hitendra Kumar Malviya**
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-**Expert JavaScript Developer | Mentor | Coach**
+## Getting Started
 
-**"Building scalable solutions, empowering developers, and exploring the endless possibilities of AI."**
+First, run the development server:
 
----
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-#### **About Me**
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Hi! I’m **Hitendra Kumar Malviya**, an experienced JavaScript developer and technical leader with over **15 years of industry experience**. My passion lies in creating elegant, scalable applications using modern frameworks like **ReactJS**, **NextJS**, and **NodeJS**, while ensuring best practices and a solid foundation for every project.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-As a mentor and coach, I excel in helping developers grow their skills, fostering a culture of collaboration, and driving projects toward impactful results. Currently, I’m deeply invested in exploring **AI’s transformative potential** to revolutionize development workflows and push boundaries in the tech space.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
----
+## Learn More
 
-#### **My Expertise**
+To learn more about Next.js, take a look at the following resources:
 
-- **JavaScript & Frontend Development:** Mastery in **ReactJS**, **NextJS**, **NodeJS**, and responsive design principles.
-- **Application Architecture:** Expert in crafting scalable and maintainable solutions with a focus on long-term performance.
-- **Mentorship & Coaching:** Guiding developers to learn fast, collaborate effectively, and achieve their career goals.
-- **AI & Innovation:** Leveraging AI to optimize workflows and solve complex technical challenges creatively.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
----
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-#### **Achievements**
+## Deploy on Vercel
 
-- Delivered **versioned releases** with a strong emphasis on quality and meeting timelines.
-- Designed scalable architectures, enhancing application performance and user experience.
-- Mentored and coached teams, fostering growth and productivity across diverse projects.
-- Implemented AI-driven solutions to streamline processes and increase efficiency.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
----
-
-#### **What I Bring**
-
-- **Expertise in JavaScript:** Extensive hands-on experience with modern tools and frameworks for high-performance solutions.
-- **Guidance & Mentorship:** Helping developers grow and thrive in fast-paced environments.
-- **Strategic Vision:** Combining technical expertise with a long-term perspective for sustainable success.
-- **AI Exploration:** Utilizing AI to drive innovation in development and problem-solving.
-
----
-
-#### **Hobbies & Passions**
-
-- Coaching developers to improve productivity and embrace continuous learning.
-- Exploring **AI’s potential** to transform development practices and tools.
-- Staying ahead of the latest trends in **JavaScript and frontend technologies**.
-
----
-
-#### **Let’s Connect!**
-
-**Email:** hitendramalviya@gmail.com  
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/hitendra-malviya-38398918/)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
