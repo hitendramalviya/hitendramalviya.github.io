@@ -125,7 +125,12 @@ export default function Home() {
           </ul>
         </Box>
         <Box paddingTop={2} paddingBottom={2}>
-          <Button variant="contained" fullWidth>
+          <Button
+            href="https://www.facebook.com/share/1AtfgwvmqP/"
+            target="_blank"
+            variant="contained"
+            fullWidth
+          >
             Upcoming events
           </Button>
         </Box>
