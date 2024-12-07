@@ -126,12 +126,12 @@ export default function Home() {
         </Box>
         <Box paddingTop={2} paddingBottom={2}>
           <Button
-            href="https://www.facebook.com/share/1AtfgwvmqP/"
+            href="https://forms.gle/ccykJBL7v8YwYsmB6"
             target="_blank"
             variant="contained"
             fullWidth
           >
-            Upcoming events
+            Register for free workshop
           </Button>
         </Box>
         <Box textAlign="center" paddingTop={2}>
